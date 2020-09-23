@@ -3,6 +3,7 @@ namespace gitPractice
 {
     public enum DataEnum
     {
-        STRING
+        STRING,
+        INT
     }
 }
