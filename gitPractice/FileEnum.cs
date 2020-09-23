@@ -3,6 +3,7 @@ namespace gitPractice
 {
     public enum FileEnum
     {
-        JPG
+        JPG,
+        PNG
     }
 }
